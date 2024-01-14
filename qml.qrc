@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>qml/main.qml</file>
         <file>qml/components/Topbar.qml</file>
+        <file>qml/controls/TopButton.qml</file>
     </qresource>
 </RCC>
